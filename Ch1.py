@@ -23,9 +23,7 @@ print(s)
 a=list(range(10))
 for item in a:
     print(item)
-a.append("manisha")
-a.append("manoj")
-a.append(8765)
+
 for item in a:
     print(item)
 
