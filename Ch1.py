@@ -26,5 +26,7 @@ for item in a:
 a.append("manisha")
 a.append("manoj")
 a.append(8765)
+for item in a:
+    print(item)
 
 
