@@ -18,3 +18,13 @@ print("Series data")
 data = np.array(['a','b','c','d'])
 s = pd.Series(data)
 print(s)
+
+#list creation and methods of lists
+a=list(range(10))
+for item in a:
+    print(item)
+a.append("manisha")
+a.append("manoj")
+a.append(8765)
+
+
